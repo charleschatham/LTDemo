@@ -17,4 +17,3 @@ Level 3: Similar to Level 2, but use a database rather than a file.
     Level 3a: Allow the user to add/remove information localy. 
     Level 3b: When issuing the update command, do a comparison between what is local and what is on the web service and prompt user to keep or discard changes. 
 
-Note: User input is NOT validated. Mostly because there wasn't a requirmenet for it, but a little because I'm lazy. 
