@@ -15,5 +15,4 @@ Level 2: Check for a JSON file on launch and either load that information or ret
     Level 2a: Add the functionality for the user to update the file.
 Level 3: Similar to Level 2, but use a database rather than a file.
     Level 3a: Allow the user to add/remove information localy. 
-    Level 3b: When issuing the update command, do a comparison between what is local and what is on the web service and prompt user to keep or discard changes. 
-
+    Level 3b: When issuing the update command, do a comparison between what is local and what is on the web service and prompt user to keep or discard changes. (TSQL)
